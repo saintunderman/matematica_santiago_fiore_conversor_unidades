@@ -13,13 +13,6 @@ Esta herramienta no solo entrega resultados, sino que desglosa el procedimiento 
 * **Interfaz Adaptativa (Responsive):** Diseño optimizado para una experiencia fluida tanto en escritorio como en dispositivos móviles.
 * **Precisión Científica:** Soporta notación científica (ej. `1.5e-3`) y maneja el límite del cero absoluto en temperaturas.
 
-## Tecnologías Utilizadas
-
-* **HTML5 & CSS3:** Estructura semántica y diseño moderno con variables CSS para una fácil personalización.
-* **JavaScript (Vanilla):** Lógica de conversión pura sin dependencias externas, garantizando rapidez y ligereza.
-* **MathJax:** Motor de renderizado para fórmulas matemáticas complejas.
-* **Intl API:** Formateo numérico profesional para una lectura clara de grandes magnitudes.
-
 ## Instalación y Uso
 
 Al ser una aplicación de una sola página (*Single Page Application*), no requiere instalación:

@@ -36,7 +36,7 @@ El proyecto incluye una sección de definiciones y fórmulas clave sobre:
 
 ---
 
-## 📄 Licencia y Créditos
+## Licencia y Créditos
 
 Desarrollado por **Santiago Fiore**.
 

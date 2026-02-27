@@ -40,5 +40,5 @@ El proyecto incluye una sección de definiciones y fórmulas clave sobre:
 
 Desarrollado por **Santiago Fiore**.
 
-* **Sitio Web:** [Portafolio de Santiago Fiore](https://sites.google.com/view/santiago-fiore/portada).
+* **Sitio Web:** https://sites.google.com/view/santiago-fiore/portada
 * **Licencia:** Creative Commons CC BY-NC-SA 4.0 (Atribución-NoComercial-CompartirIgual).
